@@ -1,7 +1,7 @@
 {
   "name": "frontend",
   "version": "0.1.0",
-  "homepage": "https://jayashri-123.github.io/FixMate-Home-Service-center",
+  "homepage": "https://jayashri-123.github.io/Home-service-center-fixmate",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
