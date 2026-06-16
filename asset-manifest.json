@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Home-service-center-fixmate/static/css/main.2b7bd397.css",
+    "main.js": "/Home-service-center-fixmate/static/js/main.497ea30c.js",
+    "static/js/453.20359781.chunk.js": "/Home-service-center-fixmate/static/js/453.20359781.chunk.js",
+    "index.html": "/Home-service-center-fixmate/index.html",
+    "main.2b7bd397.css.map": "/Home-service-center-fixmate/static/css/main.2b7bd397.css.map",
+    "main.497ea30c.js.map": "/Home-service-center-fixmate/static/js/main.497ea30c.js.map",
+    "453.20359781.chunk.js.map": "/Home-service-center-fixmate/static/js/453.20359781.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b7bd397.css",
+    "static/js/main.497ea30c.js"
+  ]
+}
