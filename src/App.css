@@ -1,0 +1,146 @@
+/* Navbar align */
+.top {
+    background-color: rgb(210, 196, 255);
+    display:flex;   
+    margin: 0%; 
+     list-style: none; 
+    justify-content:space-between; 
+    position: sticky;
+    font-weight: bold;   
+    text-decoration: none;
+    color: black; 
+}
+.top ul,topnav ul{
+    display:flex;    
+     list-style: none;  
+     padding: 10px;     
+}
+.topnav ul{
+    gap: 15%;
+    margin-right: 180px;
+}
+
+/* HOME imag and text */
+.left-text{
+    flex:1;
+    padding-left: 10px;
+}
+.right img{
+    flex:1;
+}
+.right-img img{
+    width: 100%;
+    height: auto;
+}
+.left-text h1{
+    font-weight:bold;
+    padding-top: 0%;
+    font-family: Arial, Helvetica, sans-serif;
+    align-items: center;
+    padding-top: 10%;
+    
+}
+.left-text h3{
+    padding-top: 4%;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.left-text p{
+    padding-top: 2%;
+    font-weight: 400;
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.cont{
+    display: flex;
+    justify-content: space-between;
+}
+/* home page ----x----over */
+.img-box{
+    width: 260px;
+    padding:4px;
+    transition: 0.3s;
+    text-align: center;
+    font-family: sans-serif;
+    height: 370px;
+}
+.img-box:hover{
+    background-color: black;
+    color: aliceblue;
+}
+.img-box img{
+    width: 100%;
+    height: 69%;
+    object-fit:cover;
+}
+/* explore oda css--------------- */
+
+        /* .img-boxs {
+            border: 2px solid black;
+            padding: 10px;
+            transition: 0.3s;
+            font-family: sans-serif;    
+             
+             
+        } */
+        .img-boxs:hover {
+            background-color: black;
+            color: white;
+        }
+        .img-boxs {
+  border: 2px solid black;
+  padding: 10px;
+  transition: 0.3s;
+  font-family: sans-serif;
+  display: flex;
+}
+
+.img-boxs img {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 5px;
+  flex-shrink: 0;   /* 🔥 THIS IS THE KEY FIX */
+}
+
+        .service-btn {
+            background-color: rgb(220, 13, 13);
+            color: white;
+            border: none;
+            padding: 6px 12px;
+            border-radius: 4px;
+        }
+         .service-btn1 {
+            background-color: rgb(220, 13, 13);
+            color: white;
+            border: none;
+            padding: 6px 12px;
+            border-radius: 4px;
+         }
+         .content{
+            text-align:center;
+         }
+
+         /* Aboutus css */
+
+  
+/* joinUs */
+ html, body, #root {
+  margin: 0;
+  height: 100%;
+}
+
+#joinus {
+  min-height: 100vh;
+  background-color: rgb(133, 114, 195);
+  padding: 20px;
+  
+}
+
+/* login */
+#login{
+    background-color: rgb(133, 114, 195);
+    min-height: 100vh;
+    padding-top: 10%;
+}
+
